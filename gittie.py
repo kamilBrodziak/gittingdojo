@@ -9,5 +9,8 @@ def add(x, y):
 
 def shoot():
 	return "Shooting!"
-	
+
 joke()
+
+def shout():
+    print("aaaaaaaaa!")
