@@ -7,4 +7,7 @@ def joke():
 def add(x, y):
     return x + y
 
+def shoot():
+	return "Shooting!"
+	
 joke()
